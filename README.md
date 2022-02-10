@@ -16,7 +16,7 @@ Just run `cargo test` to ensure everything works as intended, and then run `carg
 Once you have this binary, a command line interface is exposed.
 
 ### CLI
-Running anything other than one of three preset commands will give you the help screen. Here it is now:\
+Running anything other than one of three preset commands will give you the help screen. Here it is now:
 ```
 Help for RSA
 List of possible args: [gen, encrypt, decrypt]
