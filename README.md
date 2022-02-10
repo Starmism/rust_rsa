@@ -7,7 +7,7 @@ This is for my CS 3000 - Advanced Algorithms & Data Structures class at SUU, tau
 ## How to use
 
 ### Prerequisities
-A Rust compiler that supports version `2021`.
+A Rust compiler that supports version `2021`.\
 Having `e.txt` in the same working directory as the binary, once built. Should be a small-ish prime number, `65537` is a great starter.\
 Having `message.txt` in the same working directory as the binary, once built. Should be a message you wish to encode!
 
